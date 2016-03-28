@@ -106,5 +106,5 @@ public class MS5611_01BXXX
 		System.out.printf("Pressure : %.2f mbar %n", pressure);
 		System.out.printf("Temperature in Celsius : %.2f C %n", cTemp);
 		System.out.printf("Temperature in Fahrenheit : %.2f C %n", fTemp);
-		}
+	}
 }
