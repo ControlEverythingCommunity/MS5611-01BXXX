@@ -38,4 +38,13 @@ Download (or git pull) the code in pi. Run the program.
 $> python MS5611_01BXXX.py
 ```
 
+## Arduino
+Download and install Arduino Software (IDE) on your machine. Steps to install Arduino are provided at:
+
+https://www.arduino.cc/en/Main/Software
+
+Download (or git pull) the code and double click the file to run the program.
+
+Compile and upload the code on Arduino IDE and see the output on Serial Monitor.
+
 #####The code output is the pressure in mbar and temperature reading in degree celsius and fahrenheit.
